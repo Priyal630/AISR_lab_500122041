@@ -6,11 +6,8 @@
 |---|---|
 | **Student** | Priyal Sharma |
 | **SAP ID** | 500122041 |
-| **Roll No.** | `<your roll number>` |
-| **Programme** | B.Tech CSE (AI & ML), Semester VII, Autumn 2026–27 |
-| **Batch** | `<your batch>` |
-| **Course teacher** | `<teacher name>`, School of Computer Science, UPES Dehradun |
-| **Lab partner(s)** | `<name and SAP ID, or "none">` |
+| **Programme** | B.Tech CSE (AI & ML), Semester VII, 2026–27 |
+| **Batch** | `2` |
 
 This repository holds the code, results and figures for the laboratory experiments of the course, written to accompany the lab report. Every experiment is self-contained in its own folder and can be re-run independently.
 
